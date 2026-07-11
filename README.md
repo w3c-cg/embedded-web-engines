@@ -32,6 +32,8 @@ assistive technology.
 2. **Discuss** by opening or commenting on
    [issues](../../issues) in this repository. Asynchronous discussion in issues is
    our primary working channel, so that the record stays public and searchable.
+   New here? Start by introducing yourself in the pinned
+   [#1 Introductions](../../issues/1) issue.
    New to GitHub Issues? See [Communicating via GitHub Issues](./using-github-issues.md).
 3. **Propose work** by opening an issue describing the problem before sending a
    pull request.
